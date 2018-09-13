@@ -14,8 +14,8 @@ clickeamos 1 a 1 cada pieza y hasta armar el QR!
 #Developers!
 
 Integrantes: 
-Bruno Ardanaz
-Alejandro Cáceres Prado
-Jonathan Bandoni
-Raul Ignacio Galuppo
-Jonatán Urquiza
+- Bruno Ardanaz
+- Alejandro Cáceres Prado
+- Jonathan Bandoni
+- Raul Ignacio Galuppo
+- Jonatán Urquiza
